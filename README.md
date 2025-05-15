@@ -1,8 +1,10 @@
 # _mHVSR-Vs30_ - A Set of Data-driven models to predict Vs30 from mHVSR
 
 > Kushal Sharma Wagle
-> Joseph P. Vantassel, [jpvantassel.com](https://www.jpvantassel.com/)
+
 > Adrian Rodriguez-Marek
+
+> Joseph P. Vantassel, [jpvantassel.com](https://www.jpvantassel.com/)
 
 ## Table of Contents
 
@@ -13,7 +15,7 @@
 
 `mHVSR-Vs30` is a collection of data-driven models to predict the
 time averaged shear wave velocity in the upper 30 m (Vs30), from 
-microtremor horizontal-to-vertical spectrial ratio (mHVSR). The developed
+microtremor horizontal-to-vertical spectral ratio (mHVSR). The developed
 models developed include both low-dimensional (`low_dim_models.ipynb`) and
 high-dimensional (`high_dim_models.ipynb`). The details of the model's
 development and performance are presented in the reference below.
