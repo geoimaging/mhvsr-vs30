@@ -1,6 +1,6 @@
 This license applies to mHVSR-Vs30 a collection of data-driven models
 for predicting VS30 from mHVSR.
-Copyright (C) 2025 Sharma Wagle, Vantassel, Rodriguez-Marek (joseph.p.vantassel@gmail.com)
+Copyright (C) 2025 Sharma Wagle, Rodriguez-Marek, Vantassel (joseph.p.vantassel@gmail.com)
 
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007

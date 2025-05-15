@@ -1,0 +1,8 @@
+matplotlib
+numpy
+obspy
+tensorflow
+jupyterlab
+hvsrpy
+scikit-learn
+xgboost

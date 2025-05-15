@@ -5,6 +5,7 @@
 .vscode
 html
 ._.DS_Store
+*_updated.mseed
 
 # Folders
 .ipynb_checkpoints
