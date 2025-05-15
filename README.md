@@ -1,6 +1,6 @@
 # _mHVSR-Vs30_ - A Set of Data-driven models to predict Vs30 from mHVSR
 
-> Kushal Sharma Wagle, Adrian Rodriguez-Marek, Joseph P. Vantassel, [jpvantassel.com](https://www.jpvantassel.com/)
+> Kushal Sharma Wagle, Adrian Rodriguez-Marek, Joseph P. Vantassel [jpvantassel.com](https://www.jpvantassel.com/)
 
 ## Table of Contents
 
@@ -44,7 +44,7 @@ last few lines of the text displayed in the console.
 ### Using _mHVSR-Vs30_
 
 1.  Launch the provided Jupyter notebooks, `low_dim_models.ipynb` or `high_dim_models.ipynb` (recommended),
-  for a no-coding-required introduction to prediciton models. If you have not installed `Jupyter Lab`,
+  for a no-coding-required introduction to prediction models. If you have not installed `Jupyter Lab`,
   detailed instructions can be found [here](https://jpvantassel.github.io/python3-course/#/intro/installing_jupyter).
 
 2.  Continue to explore the three datasets provided by changing the file names and associated metadata in the
