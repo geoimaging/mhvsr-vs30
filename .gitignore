@@ -1,0 +1,18 @@
+# Files
+*.egg-info
+*.pyc
+*.tmp_profiler_run
+.vscode
+html
+._.DS_Store
+
+# Folders
+.ipynb_checkpoints
+__pycache__
+dist
+build
+.tox
+scratch
+env
+venv
+__MACOSX
