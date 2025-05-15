@@ -1,8 +1,6 @@
 # _mHVSR-Vs30_ - A Set of Data-driven models to predict Vs30 from mHVSR
 
-> Kushal Sharma Wagle\n
-> Adrian Rodriguez-Marek\n
-> Joseph P. Vantassel, [jpvantassel.com](https://www.jpvantassel.com/)
+> Kushal Sharma Wagle, Adrian Rodriguez-Marek, Joseph P. Vantassel, [jpvantassel.com](https://www.jpvantassel.com/)
 
 ## Table of Contents
 
