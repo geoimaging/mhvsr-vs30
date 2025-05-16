@@ -30,15 +30,19 @@ following:
 so. A detailed set of instructions can be found
 [here](https://jpvantassel.github.io/python3-course/#/intro/installing_python).
 
-2. Download a copy of the repository to your local machine. This can be done by
+2. MacOS users, note that you may need to install `libomp` before continuing.
+You can do this using `brew` with the command `brew install libomp` or through `conda`
+with the command `conda install -c conda-forge libomp`. 
+
+3. Download a copy of the repository to your local machine. This can be done by
 downloading a .zip file or by cloning the repository. If you download a .zip you
 will need to be sure that you continue using the unzipped version to prevent issues.
 
-3.  Install the Python dependencies using `pip` via the command `python -m pip install -r requirements.txt`.
+4.  Install the Python dependencies using `pip` via the command `python -m pip install -r requirements.txt`.
 If you are not familiar with `pip`, a useful tutorial can be found
 [here](https://jpvantassel.github.io/python3-course/#/intro/pip).
 
-4.  Confirm that the dependencies have installed/updated successfully by examining the
+5.  Confirm that the dependencies have installed/updated successfully by examining the
 last few lines of the text displayed in the console.
 
 ### Using _mHVSR-Vs30_
