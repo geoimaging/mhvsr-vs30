@@ -26,7 +26,7 @@ following:
 
 ### Installing _mHVSR-Vs30_
 
-1.  If you do not have Python 3.10 or later installed, you will need to do
+1.  If you do not have Python 3.12 or later installed, you will need to do
 so. A detailed set of instructions can be found
 [here](https://jpvantassel.github.io/python3-course/#/intro/installing_python).
 
