@@ -1,6 +1,6 @@
 # _mHVSR-Vs30_ - A Set of Data-driven models to predict Vs30 from mHVSR
 
-> Kushal Sharma Wagle, Adrian Rodriguez-Marek, Joseph P. Vantassel [jpvantassel.com](https://www.jpvantassel.com/)
+> Kushal Sharma Wagle, Joseph P. Vantassel [jpvantassel.com](https://www.jpvantassel.com/), Adrian Rodriguez-Marek,
 
 ## Table of Contents
 
@@ -16,11 +16,12 @@ models developed include both low-dimensional (`low_dim_models.ipynb`) and
 high-dimensional (`high_dim_models.ipynb`). The details of the model's
 development and performance are presented in the reference below.
 
+## Citation
+
 If you use these tools in your research or consulting, we ask you please cite the
 following:
 
-> Sharma Wagle, K., Vantassel, J.P., and Rodriguez-Marek, A. (2025). "A Set of Data-Driven Models to Predict VS30 from the
-> Horizontal-to-Vertical Spectral Ratio of Microtremors". Bulletin of the Seismological Society of America. [In-Review]
+> Sharma Wagle, K., Vantassel, J.P., Rodriguez-Marek, A., and Anbazhagan, B. (2026). "A Set of Data-Driven Models to Predict VS30 from the Horizontal-to-Vertical Spectral Ratio of Microtremors". Bulletin of the Seismological Society of America. [https://doi.org/10.1785/0120250128](https://doi.org/10.1785/0120250128)
 
 ## Getting Started
 
